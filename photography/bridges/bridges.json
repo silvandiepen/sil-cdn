@@ -1,0 +1,37 @@
+{
+    "title": "Bridges",
+    "description": "A collection of photographs featuring bridges in the Netherlands",
+    "total": 5,
+    "images": [
+        {
+            "image": "https://cdn.sil.mt/photography/netherlands/bridges/weg5.jpg",
+            "description": "",
+            "title": "weg5",
+            "thumb": "https://cdn.sil.mt/photography/netherlands/bridges/thumb/weg5.jpg"
+        },
+        {
+            "image": "https://cdn.sil.mt/photography/netherlands/bridges/weg4.jpg",
+            "description": "",
+            "title": "weg4",
+            "thumb": "https://cdn.sil.mt/photography/netherlands/bridges/thumb/weg4.jpg"
+        },
+        {
+            "image": "https://cdn.sil.mt/photography/netherlands/bridges/weg3.jpg",
+            "description": "",
+            "title": "weg3",
+            "thumb": "https://cdn.sil.mt/photography/netherlands/bridges/thumb/weg3.jpg"
+        },
+        {
+            "image": "https://cdn.sil.mt/photography/netherlands/bridges/weg2.jpg",
+            "description": "",
+            "title": "weg2",
+            "thumb": "https://cdn.sil.mt/photography/netherlands/bridges/thumb/weg2.jpg"
+        },
+        {
+            "image": "https://cdn.sil.mt/photography/netherlands/bridges/weg.jpg",
+            "description": "",
+            "title": "weg",
+            "thumb": "https://cdn.sil.mt/photography/netherlands/bridges/thumb/weg.jpg"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Frutas",
+    "description": "A colorful collection of fruits",
+    "total": 9,
+    "images": [
+        {
+            "image": "https://cdn.sil.mt/photography/frutas/apple1.jpg",
+            "description": "Frutas Apple",
+            "title": "Apple",
+            "thumb": "https://cdn.sil.mt/photography/frutas/thumb/apple1.jpg"
+        },
+        {
+            "image": "https://cdn.sil.mt/photography/frutas/banana1.jpg",
+            "description": "Frutas Banana",
+            "title": "Banana",
+            "thumb": "https://cdn.sil.mt/photography/frutas/thumb/banana1.jpg"
+        },
+        {
+            "image": "https://cdn.sil.mt/photography/frutas/kiwano1.jpg",
+            "description": "Frutas Kiwano",
+            "title": "Kiwano",
+            "thumb": "https://cdn.sil.mt/photography/frutas/thumb/kiwano1.jpg"
+        },
+        {
+            "image": "https://cdn.sil.mt/photography/frutas/kiwi1.jpg",
+            "description": "Frutas Kiwi",
+            "title": "Kiwi",
+            "thumb": "https://cdn.sil.mt/photography/frutas/thumb/kiwi1.jpg"
+        },
+        {
+            "image": "https://cdn.sil.mt/photography/frutas/kiwi2.jpg",
+            "description": "Frutas Kiwi",
+            "title": "Kiwi",
+            "thumb": "https://cdn.sil.mt/photography/frutas/thumb/kiwi2.jpg"
+        },
+        {
+            "image": "https://cdn.sil.mt/photography/frutas/orange1.jpg",
+            "description": "Frutas Orange",
+            "title": "Orange",
+            "thumb": "https://cdn.sil.mt/photography/frutas/thumb/orange1.jpg"
+        },
+        {
+            "image": "https://cdn.sil.mt/photography/frutas/peer1.jpg",
+            "description": "Frutas Peer",
+            "title": "Peer",
+            "thumb": "https://cdn.sil.mt/photography/frutas/thumb/peer1.jpg"
+        },
+        {
+            "image": "https://cdn.sil.mt/photography/frutas/tomato1.jpg",
+            "description": "Frutas Tomato",
+            "title": "Tomato",
+            "thumb": "https://cdn.sil.mt/photography/frutas/thumb/tomato1.jpg"
+        },
+        {
+            "image": "https://cdn.sil.mt/photography/frutas/ui1.jpg",
+            "description": "Frutas Onion",
+            "title": "Onion",
+            "thumb": "https://cdn.sil.mt/photography/frutas/thumb/ui1.jpg"
+        }
+    ]
+}
