@@ -1,0 +1,19 @@
+{
+    "title": "RM",
+    "description": "The RM logo, made for Rafael Martirosyan.",
+    "total": 2,
+    "images": [
+        {
+            "image": "https://cdn.sil.mt/logo/rm/logo.svg",
+            "description": "The final logo, unfortunately the logo has been editted later by the client without the consent of the designer and with the lineart in mind.",
+            "title": "RM logo",
+            "tags": ["logo", "branding", "design"]
+        },
+        {
+            "image": "https://cdn.sil.mt/logo/rm/icon.svg",
+            "description": "The Icon used in the logo and for other purposes",
+            "title": "RM Icon",
+            "tags": ["logo", "branding", "design"]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "title": "Aero",
+    "description": "",
+    "total": 2,
+    "images": [
+        {
+            "image": "https://cdn.sil.mt/logo/aero/logo.svg",
+            "description": "",
+            "title": "Aero Logo",
+            "tags": ["logo", "branding", "design"]
+        },
+        {
+            "image": "https://cdn.sil.mt/logo/aero/icon.svg",
+            "description": "",
+            "title": "Aero Icon",
+            "tags": ["logo", "branding", "design"]
+        }
+    ]
+}

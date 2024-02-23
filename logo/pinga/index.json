@@ -1,0 +1,14 @@
+{
+    "title": "Pinga",
+    "description": "Pinga is a webshop with kids prints",
+    "total": 1,
+    "images": [
+        {
+            "image": "https://cdn.sil.mt/logo/pinga/logo.svg",
+            "description": "",
+            "title": "Pinga Logo",
+            "tags": ["logo", "branding", "design"]
+        }
+       
+    ]
+}

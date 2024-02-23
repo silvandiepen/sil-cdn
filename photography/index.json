@@ -1,0 +1,40 @@
+{
+    "collections": [
+        {
+            "title": "Winter",
+            "description": "Winter is the coldest season of the year in polar and temperate zones. It occurs after autumn and before spring in each year. Winter is caused by the axis of the Earth in that hemisphere being oriented away from the Sun. Different cultures define different dates as the start of winter, and some use a definition based on weather. When it is winter in the Northern Hemisphere, it is summer in the Southern Hemisphere, and vice versa. In many regions, winter is associated with snow and freezing temperatures. The moment of winter solstice is when the sun's elevation with respect to the North or South Pole is at its most negative value (that is, the sun is at its farthest below the horizon as measured from the pole).",
+            "data": "https://cdn.sil.mt/photography/winter/index.json",
+            "image": "https://cdn.sil.mt/photography/winter/Winter_1.jpg"
+        },
+        {
+            "title": "Chernobyl",
+            "description": "Chernobyl is a city in the restricted Chernobyl Exclusion Zone situated in the Ivankiv Raion of northern Kiev Oblast, near Ukraine's border with Belarus. The city was the administrative center of Chernobyl Raion (district) from 1923 until it was disestablished in 1988. The city was evacuated in 1986 due to the Chernobyl disaster at the Chernobyl Nuclear Power Plant, which is located 14.5 kilometers (9 miles) north-northwest. The power plant is within Chernobyl Raion, but the city was not the residence of the power plant workers. When the power plant was under construction, Pripyat, a city larger and closer to the power plant, had been built as home for the power plant workers.",
+            "data": "https://cdn.sil.mt/photography/chernobyl/index.json",
+            "image": "https://cdn.sil.mt/photography/chernobyl/0586.jpg"
+        },
+        {
+            "title": "Frutas",
+            "description": "Frutas is a collection of colorful fruits.",
+            "data": "https://cdn.sil.mt/photography/frutas/index.json",
+            "image": "https://cdn.sil.mt/photography/frutas/banana1.jpg"
+        },
+        {
+            "title": "Curaçao",
+            "description": "Curaçao is a Lesser Antilles island country in the southern Caribbean Sea and the Dutch Caribbean region, about 65 km (40 mi) north of the Venezuelan coast. It is a constituent country of the Kingdom of the Netherlands. Curaçao was formerly part of the Netherlands Antilles.",
+            "data": "https://cdn.sil.mt/photography/curacao/index.json",
+            "image": "https://cdn.sil.mt/photography/curacao/_DSC8331.jpg"
+        },
+        {
+            "title": "Bridges",
+            "description": "A bridge is a structure built to span a physical obstacle, such as a body of water, valley, or road, without closing the way underneath. It is constructed for the purpose of providing passage over the obstacle, usually something that is otherwise difficult or impossible to cross.",
+            "data": "https://cdn.sil.mt/photography/bridges/index.json",
+            "image": "https://cdn.sil.mt/photography/bridges/weg.jpg"
+        },
+        {
+            "title": "Armenia",
+            "description": "Armenia is a country in the South Caucasus region of Eurasia. Located in Western Asia on the Armenian Highlands, it is bordered by Turkey to the west, Georgia to the north, the de facto independent Republic of Artsakh and Azerbaijan to the east, and Iran and Azerbaijan's exclave of Nakhchivan to the south.",
+            "data": "https://cdn.sil.mt/photography/armenia/index.json",
+            "image": "https://cdn.sil.mt/photography/armenia/_MG_1807.jpg"
+        }
+    ]
+}

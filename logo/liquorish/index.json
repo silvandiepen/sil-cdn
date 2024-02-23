@@ -1,0 +1,19 @@
+{
+    "title": "Liquorish",
+    "description": "An internal tool for Vue Storefront Client Relations",
+    "total": 2,
+    "images": [
+        {
+            "image": "https://cdn.sil.mt/logo/liquorish/logo.svg",
+            "description": "The logo",
+            "title": "Liquorish Logo",
+            "tags": ["logo", "branding", "design"]
+        },
+        {
+            "image": "https://cdn.sil.mt/logo/liquorish/icon.svg",
+            "description": "",
+            "title": "Liquorish Icon",
+            "tags": ["logo", "branding", "design"]
+        }
+    ]
+}

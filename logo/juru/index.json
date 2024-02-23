@@ -1,0 +1,14 @@
+{
+    "title": "Juru",
+    "description": "Juru is a webshop with Malta inspired prints",
+    "total": 1,
+    "images": [
+        {
+            "image": "https://cdn.sil.mt/logo/juru/logo.svg",
+            "description": "",
+            "title": "Juru Logo",
+            "tags": ["logo", "branding", "design"]
+        }
+       
+    ]
+}

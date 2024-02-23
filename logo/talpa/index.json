@@ -1,0 +1,19 @@
+{
+    "title": "Talpa",
+    "description": "The new 2023 Talpa logo",
+    "total": 2,
+    "images": [
+        {
+            "image": "https://cdn.sil.mt/logo/talpa/logo.svg",
+            "description": "The final logo, unfortunately the logo has been editted later by the client without the consent of the designer and with the lineart in mind.",
+            "title": "Talpa Logo",
+            "tags": ["logo", "branding", "design"]
+        },
+        {
+            "image": "https://cdn.sil.mt/logo/talpa/lines.svg",
+            "description": "The lineart of the logo, the final logo was created from this lineart.",
+            "title": "Talpa Logo Line art",
+            "tags": ["logo", "branding", "design"]
+        }
+    ]
+}

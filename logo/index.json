@@ -1,0 +1,46 @@
+{
+    "collections": [
+        {
+            "title": "Talpa",
+            "description": "Talpa is a Dutch TV producer",
+            "data": "https://cdn.sil.mt/logo/talpa/index.json",
+            "image": "https://cdn.sil.mt/logo/talpa/logo.svg"
+        },
+        {
+            "title": "RM",
+            "description": "",
+            "data": "https://cdn.sil.mt/logo/rm/index.json",
+            "image": "https://cdn.sil.mt/logo/rm/logo.svg"
+        },
+        {
+            "title": "Kraber",
+            "description": "",
+            "data": "https://cdn.sil.mt/logo/kraber/index.json",
+            "image": "https://cdn.sil.mt/logo/kraber/logo.svg"
+        },
+        {
+            "title": "Aero",
+            "description": "",
+            "data": "https://cdn.sil.mt/logo/aero/index.json",
+            "image": "https://cdn.sil.mt/logo/aero/logo.svg"
+        },
+        {
+            "title": "Liquorish",
+            "description": "",
+            "data": "https://cdn.sil.mt/logo/liquorish/index.json",
+            "image": "https://cdn.sil.mt/logo/liquorish/logo.svg"
+        },
+        {
+            "title": "Pinga",
+            "description": "",
+            "data": "https://cdn.sil.mt/logo/pinga/index.json",
+            "image": "https://cdn.sil.mt/logo/pinga/logo.svg"
+        },
+        {
+            "title": "Juru",
+            "description": "",
+            "data": "https://cdn.sil.mt/logo/juru/index.json",
+            "image": "https://cdn.sil.mt/logo/juru/logo.svg"
+        }
+    ]
+}

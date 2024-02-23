@@ -1,0 +1,19 @@
+{
+    "title": "Kraber",
+    "description": "A steal company",
+    "total": 2,
+    "images": [
+        {
+            "image": "https://cdn.sil.mt/logo/kraber/logo.svg",
+            "description": "The final logo, unfortunately the logo has been editted later by the client without the consent of the designer and with the lineart in mind.",
+            "title": "Kraber Logo",
+            "tags": ["logo", "branding", "design"]
+        },
+        {
+            "image": "https://cdn.sil.mt/logo/kraber/icon.svg",
+            "description": "The lineart of the logo, the final logo was created from this lineart.",
+            "title": "Logo Line art",
+            "tags": ["logo", "branding", "design"]
+        }
+    ]
+}
