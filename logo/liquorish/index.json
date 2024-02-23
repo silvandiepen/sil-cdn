@@ -2,6 +2,7 @@
     "title": "Liquorish",
     "description": "An internal tool for Vue Storefront Client Relations",
     "total": 2,
+    "color": "#F8BCD6",
     "images": [
         {
             "image": "https://cdn.sil.mt/logo/liquorish/logo.svg",

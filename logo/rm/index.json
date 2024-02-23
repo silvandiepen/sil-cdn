@@ -2,6 +2,7 @@
     "title": "RM",
     "description": "The RM logo, made for Rafael Martirosyan.",
     "total": 2,
+    "color": "#dabe33",
     "images": [
         {
             "image": "https://cdn.sil.mt/logo/rm/logo.svg",

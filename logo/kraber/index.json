@@ -2,6 +2,7 @@
     "title": "Kraber",
     "description": "A steal company",
     "total": 2,
+    "color": "#E21A29",
     "images": [
         {
             "image": "https://cdn.sil.mt/logo/kraber/logo.svg",

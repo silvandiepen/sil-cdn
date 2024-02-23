@@ -2,6 +2,7 @@
     "title": "Pinga",
     "description": "Pinga is a webshop with kids prints",
     "total": 1,
+    "color": "#F7268A",
     "images": [
         {
             "image": "https://cdn.sil.mt/logo/pinga/logo.svg",
